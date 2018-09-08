@@ -25,7 +25,7 @@ class School
   end
   
   def sort
-    return @roster.sort
+    p @roster.sort
   end
   
 end
